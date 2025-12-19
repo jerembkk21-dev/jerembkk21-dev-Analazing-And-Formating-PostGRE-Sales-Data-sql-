@@ -6,6 +6,7 @@ Super Store SQL Data Cleaning & Analysis
 In this project, I worked with transactional data from a hypothetical Super Store to practice SQL data cleaning, aggregation, and analytical queries. The dataset contained inconsistent data types and missing values, requiring careful preprocessing before analysis.
 
 **Key Tasks & Solutions**
+
 **1) Top Products Analysis**
 - Joined orders and products tables to analyze product performance.
 - Aggregated sales and profit at the product level.
