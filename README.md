@@ -1,0 +1,1 @@
+# jerembkk21-dev-Analazing-And-Formating-PostGRE-Sales-Data-sql-
