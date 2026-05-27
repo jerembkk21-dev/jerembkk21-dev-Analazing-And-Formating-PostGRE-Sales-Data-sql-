@@ -30,7 +30,13 @@ Additional SQL queries, analytical logic, data cleaning steps, and reporting imp
 - Estimated missing quantities using calculated unit prices.
 - Ensured results returned only affected records, matching the expected number of missing values.
 
-**3) Skills Demonstrated**
+**3) Dashboards**
+
+
+![Dashboard Screenshot](sql_sales_data_cleaning_and_analysis.png)
+
+
+**4) Skills Demonstrated**
 
 - SQL joins and aggregations
 - Window functions (ROW_NUMBER)
