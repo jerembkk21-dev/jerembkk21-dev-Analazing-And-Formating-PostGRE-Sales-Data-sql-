@@ -6,6 +6,14 @@ Super Store SQL Data Cleaning & Analysis
 
 In this project, I worked with transactional data from a hypothetical Super Store to practice SQL data cleaning, aggregation, and analytical queries. The dataset contained inconsistent data types and missing values, requiring careful preprocessing before analysis.
 
+**Data Source**
+
+This project was completed as part of a DataCamp SQL case study using a simulated Super Store transactional dataset.
+
+The dataset includes sales transactions, product information, quantities, revenue, and profit data designed to replicate real-world retail business scenarios.
+
+Additional SQL queries, analytical logic, data cleaning steps, and reporting improvements were developed to extend the original case study and perform deeper analysis.
+
 **Key Tasks & Solutions**
 
 **1) Top Products Analysis**
