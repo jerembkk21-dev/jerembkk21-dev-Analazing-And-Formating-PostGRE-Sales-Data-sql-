@@ -1,4 +1,4 @@
-#     sales-data-cleaning-and-analysis-sql
+#     sales-data-cleaning-and-analysis-PostgreSQL
 
 Super Store SQL Data Cleaning & Analysis
 
